@@ -61,6 +61,11 @@ hash = "df724beef20c6a6458b6eced0a36d6ac72dffe00849676f80bdf328207f6d061"
 metafile = true
 
 [[files]]
+file = "mods/just-enough-resources-jer.pw.toml"
+hash = "02977d28acd2089c39dbe5b65fd08e78094fb650b4afc810f757cb5cea1fbda8"
+metafile = true
+
+[[files]]
 file = "mods/kotlin-for-forge.pw.toml"
 hash = "70a4ecd9d0c04ad20aeb976c1ee28933ce48a0a1f43df42deafaeb2ad7235297"
 metafile = true
