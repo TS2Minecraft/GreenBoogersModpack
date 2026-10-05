@@ -1,0 +1,13 @@
+name = "MezzConfig"
+filename = "mezz_config-1.20.1-forge-0.6.8.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/7tEfOcA7/versions/EAG7rQQs/mezz_config-1.20.1-forge-0.6.8.jar"
+hash-format = "sha512"
+hash = "6e60ca9410fe80b8a61c2da755c4a540b1623ad4dc79d9372d7cb5ad0ba669ffead6e32a8e2d93fdc8e3a7a0a12fee6abd31b194d8ae902ef0462d730bd2270c"
+
+[update]
+[update.modrinth]
+mod-id = "7tEfOcA7"
+version = "EAG7rQQs"

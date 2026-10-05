@@ -6,6 +6,26 @@ hash = "6b75e21a40b8dcfe80a1d29ce4b8b3168b07f1329688de128f49bafb802d169b"
 metafile = true
 
 [[files]]
+file = "mods/jei.pw.toml"
+hash = "df724beef20c6a6458b6eced0a36d6ac72dffe00849676f80bdf328207f6d061"
+metafile = true
+
+[[files]]
+file = "mods/mezzconfig.pw.toml"
+hash = "c25495262a852dc02886ec8c4b695f30e53264a2e3d881dd36ee9de16a1ef499"
+metafile = true
+
+[[files]]
 file = "mods/official-divinerpg.pw.toml"
 hash = "3c4bb5d9f4fc3ef7d42ef03cf2ba37b349dc9e2e82bbad017ae053f99ab12a1b"
+metafile = true
+
+[[files]]
+file = "mods/xaeros-minimap.pw.toml"
+hash = "7abf32ce64c1d63dc8b9bbc49f23905a286b2c960095647d23db6da82509ad07"
+metafile = true
+
+[[files]]
+file = "mods/xaeros-world-map.pw.toml"
+hash = "05c752d6d527202974f3490ba8b0992c9f1820a9aa02c0801793b8bc808f27bb"
 metafile = true

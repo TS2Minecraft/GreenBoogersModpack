@@ -1,0 +1,19 @@
+name = "Xaero's World Map"
+filename = "xaeroworldmap-forge-1.20.1-1.47.0.jar"
+side = "client"
+
+[download]
+hash-format = "sha1"
+hash = "6715c1d3758a3805589d82c41dc581537fe185cd"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 9067273
+project-id = 317780
+
+
+[option]
+optional = true
+default = false
+description = "Карта мира"
