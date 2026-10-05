@@ -14,5 +14,5 @@ project-id = 263420
 
 [option]
 optional = true
-default = false
+default = true
 description = "Миникарта"

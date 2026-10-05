@@ -1,0 +1,13 @@
+name = "OptiFine"
+filename = "optifine"
+side = "client"
+
+[download]
+url = "https://optifine.net/downloadx?f=OptiFine_1.20.1_HD_U_I6.jar&x=500a7a277d389fc85a73ca6b76a71fa5"
+hash-format = "sha256"
+hash = "0b67cb670aedf2e55a982f3d52b6d53e46791a0c984aa1d2ee58100fc9bfc650"
+
+[option]
+optional = true
+default = false
+description = "Оптимизация и шейдеры"

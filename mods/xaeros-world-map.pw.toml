@@ -15,5 +15,5 @@ project-id = 317780
 
 [option]
 optional = true
-default = false
+default = true
 description = "Карта мира"

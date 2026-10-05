@@ -21,6 +21,11 @@ hash = "3c4bb5d9f4fc3ef7d42ef03cf2ba37b349dc9e2e82bbad017ae053f99ab12a1b"
 metafile = true
 
 [[files]]
+file = "mods/optifine.pw.toml"
+hash = "c019bf50debd7418f2dfdadec8a77931240845dc836706e2da6038339cd90a06"
+metafile = true
+
+[[files]]
 file = "mods/xaeros-minimap.pw.toml"
 hash = "7abf32ce64c1d63dc8b9bbc49f23905a286b2c960095647d23db6da82509ad07"
 metafile = true
