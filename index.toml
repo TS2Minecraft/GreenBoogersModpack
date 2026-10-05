@@ -22,15 +22,15 @@ metafile = true
 
 [[files]]
 file = "mods/optifine.pw.toml"
-hash = "c019bf50debd7418f2dfdadec8a77931240845dc836706e2da6038339cd90a06"
+hash = "945dcd09a643ceda4893cc01cb7b0263edd1270f8d3a5204e0d9cb16882717ee"
 metafile = true
 
 [[files]]
 file = "mods/xaeros-minimap.pw.toml"
-hash = "7abf32ce64c1d63dc8b9bbc49f23905a286b2c960095647d23db6da82509ad07"
+hash = "c8e7736c6484f1ed9e4c107abcff078b577231dc63b9de548f0739028ba17d34"
 metafile = true
 
 [[files]]
 file = "mods/xaeros-world-map.pw.toml"
-hash = "05c752d6d527202974f3490ba8b0992c9f1820a9aa02c0801793b8bc808f27bb"
+hash = "48d107f782c7dfd843b6830940516b22f039e439edc29a39fa284ea0a95234d3"
 metafile = true
