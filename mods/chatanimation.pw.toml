@@ -1,0 +1,18 @@
+name = "Chat Animation [Smooth Chat]"
+filename = "chatanimation-forge-1.3.4+mc1.20.1.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/DnNYdJsx/versions/fTHsrovM/chatanimation-forge-1.3.4%2Bmc1.20.1.jar"
+hash-format = "sha512"
+hash = "26bae3059f12268ccd34c7c766be55ab1c3c726d7b5b117d59cba099e1b4ae11528244b67c2603f9f3f269f73a6e02c1d35444e95c6bad9f23ccb7e8da16b0da"
+
+[update]
+[update.modrinth]
+mod-id = "DnNYdJsx"
+version = "fTHsrovM"
+
+[option]
+optional = true
+default = true
+description = "Анимация появления сообщений в чате"

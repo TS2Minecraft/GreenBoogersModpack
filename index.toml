@@ -26,6 +26,21 @@ hash = "7eac00def4395b62dc85d04a9f52e022736404fd44c1cd11b052fdab127ec7cb"
 metafile = true
 
 [[files]]
+file = "mods/chatanimation.pw.toml"
+hash = "513879881b2eec1c13fd746ccc7ad618965e6444db52963bfaf971d5c14e461b"
+metafile = true
+
+[[files]]
+file = "mods/coroutil.pw.toml"
+hash = "b2c7739b56ef71f50a86658cfa67375796beafd391c4dbe26a5de8cd92b9b685"
+metafile = true
+
+[[files]]
+file = "mods/dynamic-fps.pw.toml"
+hash = "b67251b53eb4685d349bda68fde30b021e99900fe4d445e6c0f3e9fa0a908580"
+metafile = true
+
+[[files]]
 file = "mods/hexerei.pw.toml"
 hash = "6b75e21a40b8dcfe80a1d29ce4b8b3168b07f1329688de128f49bafb802d169b"
 metafile = true
@@ -38,6 +53,16 @@ metafile = true
 [[files]]
 file = "mods/mezzconfig.pw.toml"
 hash = "c25495262a852dc02886ec8c4b695f30e53264a2e3d881dd36ee9de16a1ef499"
+metafile = true
+
+[[files]]
+file = "mods/mru.pw.toml"
+hash = "d97b2c61007a7da2c4b506b7686f7308f23aabc06a8f292825746246e47dc094"
+metafile = true
+
+[[files]]
+file = "mods/netherportalfix.pw.toml"
+hash = "e9e7e6a1b2f05f2451e9d4072135147bcd1814a180dc15137ea4c15f65241093"
 metafile = true
 
 [[files]]
@@ -61,13 +86,23 @@ hash = "73dbaf12982767cc4b78e4019fcabfff487584c93f5c425656c27155254cf270"
 metafile = true
 
 [[files]]
+file = "mods/skinrestorer.pw.toml"
+hash = "be8f847d1e316c8c2e5122ba19ff09bf06a6e284671b6e454162741fd7abb7da"
+metafile = true
+
+[[files]]
+file = "mods/sound.pw.toml"
+hash = "8350f262407d2cc6bc1012bd7c4e9c6bef17f820eeadd122b20397c386562004"
+metafile = true
+
+[[files]]
 file = "mods/waystones.pw.toml"
 hash = "1dc6ca31c7b6912c494caa2a4f5f9f7250af50fbeb9ce9141ae9b741f9861987"
 metafile = true
 
 [[files]]
-file = "mods/xaeros-minimap-world-map-waystones-compatibility-forge.pw.toml"
-hash = "a2330eba9359f699e4c7a6c2f44691b7cf746d188f23d2c985d276d5733b9f2a"
+file = "mods/what-are-they-up-to.pw.toml"
+hash = "c557d1b26559ef987c229187d2f2705616e78179ce04fa1c96cc3d76a1cdf1b5"
 metafile = true
 
 [[files]]
@@ -78,4 +113,9 @@ metafile = true
 [[files]]
 file = "mods/xaeros-world-map.pw.toml"
 hash = "48d107f782c7dfd843b6830940516b22f039e439edc29a39fa284ea0a95234d3"
+metafile = true
+
+[[files]]
+file = "mods/yacl.pw.toml"
+hash = "f3b3d035b89519faccc4ddd8b0b4407ce96c0eb49068fe50a445d43a3baa8bea"
 metafile = true
