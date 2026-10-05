@@ -81,6 +81,11 @@ hash = "c25495262a852dc02886ec8c4b695f30e53264a2e3d881dd36ee9de16a1ef499"
 metafile = true
 
 [[files]]
+file = "mods/mezzconfiggui.pw.toml"
+hash = "ea0af08d86563019daac64d2e5d940b54ba3e8e98e9e839efc54225d84576640"
+metafile = true
+
+[[files]]
 file = "mods/mru.pw.toml"
 hash = "d97b2c61007a7da2c4b506b7686f7308f23aabc06a8f292825746246e47dc094"
 metafile = true
