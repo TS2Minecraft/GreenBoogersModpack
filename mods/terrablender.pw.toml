@@ -1,0 +1,13 @@
+name = "TerraBlender"
+filename = "TerraBlender-forge-1.20.1-3.0.1.11.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/kkmrDlKT/versions/IfcgopfA/TerraBlender-forge-1.20.1-3.0.1.11.jar"
+hash-format = "sha512"
+hash = "a784082052e229167f52f01a4ec5d0a7d94a27f2832f5df6918a99f5b680818c8d7c0116fd4897cdff044e9d2bc3129a13ba1454d1cd3ec9d851260d8c2c97fc"
+
+[update]
+[update.modrinth]
+mod-id = "kkmrDlKT"
+version = "IfcgopfA"
