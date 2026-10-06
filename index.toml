@@ -11,6 +11,11 @@ hash = "793693a85f3c87d4e899ee0c58deabc53690bf5a70f17343f28fd5063ce8a1e1"
 metafile = true
 
 [[files]]
+file = "mods/attributefix.pw.toml"
+hash = "828d571a91296e2ee3be1ec509619ea01f6a61a03958461fbe543bd377daa194"
+metafile = true
+
+[[files]]
 file = "mods/balm.pw.toml"
 hash = "92eef137f9ea740673053ec3604ddf3ed197f22fdf5e5da35c8364f88ad31650"
 metafile = true
@@ -86,6 +91,11 @@ hash = "5a98133891a72e041e37bc235e86d495e488387f1628fc1377e6b5169dfbb8bd"
 metafile = true
 
 [[files]]
+file = "mods/max-health-fix.pw.toml"
+hash = "a93f0e9edd075e9f7636bc4ef206318698fe4481377fdf8786789877070c4922"
+metafile = true
+
+[[files]]
 file = "mods/memoryleakfix.pw.toml"
 hash = "ade41e4315735aa9116a0222b332e03d3f8df6eea301764d40d0bdc40f5e8689"
 metafile = true
@@ -138,6 +148,11 @@ metafile = true
 [[files]]
 file = "mods/official-divinerpg.pw.toml"
 hash = "3c4bb5d9f4fc3ef7d42ef03cf2ba37b349dc9e2e82bbad017ae053f99ab12a1b"
+metafile = true
+
+[[files]]
+file = "mods/passive-skill-tree.pw.toml"
+hash = "2ce53a704e67995bb5e9fbd42e59004e47ffc6487e2867131500dafd355b6b3e"
 metafile = true
 
 [[files]]
