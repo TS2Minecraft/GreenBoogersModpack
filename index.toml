@@ -96,6 +96,11 @@ hash = "d97b2c61007a7da2c4b506b7686f7308f23aabc06a8f292825746246e47dc094"
 metafile = true
 
 [[files]]
+file = "mods/neat.pw.toml"
+hash = "e0eeca17fe34033452cec59bc55d64e5ea3d23af91b7589accf08ea1aae1ca60"
+metafile = true
+
+[[files]]
 file = "mods/netherportalfix.pw.toml"
 hash = "e9e7e6a1b2f05f2451e9d4072135147bcd1814a180dc15137ea4c15f65241093"
 metafile = true
@@ -113,11 +118,6 @@ metafile = true
 [[files]]
 file = "mods/official-divinerpg.pw.toml"
 hash = "3c4bb5d9f4fc3ef7d42ef03cf2ba37b349dc9e2e82bbad017ae053f99ab12a1b"
-metafile = true
-
-[[files]]
-file = "mods/optifine.pw.toml"
-hash = "73dbaf12982767cc4b78e4019fcabfff487584c93f5c425656c27155254cf270"
 metafile = true
 
 [[files]]
