@@ -1,0 +1,19 @@
+name = "Better Zoom"
+filename = "betterzoom-forge-1.20.1-2.9.0.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/rOY9XqdO/versions/TUOWHtJQ/betterzoom-forge-1.20.1-2.9.0.jar"
+hash-format = "sha512"
+hash = "1586f60284eda6e56c3b5b8f0c6e27713a4b989a247da84dc0f8d38875427fa1c2f254d763e8a7be23620c1b9f858f4f7dc97ee94b82e53420367a2a8f1aa6bc"
+
+[update]
+[update.modrinth]
+mod-id = "rOY9XqdO"
+version = "TUOWHtJQ"
+
+
+[option]
+optional = true
+default = true
+description = "Better Zoom позволяет плавно масштабировать изображение с помощью колеса мыши и горячих клавиш (По умолчанию C). Расширение обеспечивает простое и эффективное масштабирование с возможностью настройки параметров."

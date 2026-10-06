@@ -21,6 +21,11 @@ hash = "777eb31bb0687b66bec8f9e5c3cf3b43030add8fcdf3f0c7db07f0e30208a820"
 metafile = true
 
 [[files]]
+file = "mods/better-zoom.pw.toml"
+hash = "07d0f68f9b3389a773664221117aff25ee4df45dea8868a182513696d41040ae"
+metafile = true
+
+[[files]]
 file = "mods/chat-heads.pw.toml"
 hash = "7eac00def4395b62dc85d04a9f52e022736404fd44c1cd11b052fdab127ec7cb"
 metafile = true
@@ -38,6 +43,11 @@ metafile = true
 [[files]]
 file = "mods/dynamic-fps.pw.toml"
 hash = "b67251b53eb4685d349bda68fde30b021e99900fe4d445e6c0f3e9fa0a908580"
+metafile = true
+
+[[files]]
+file = "mods/embeddium.pw.toml"
+hash = "5ec0c37f3f4ad07a40c10376668bca80334ddb7ad2bab06eb4de8f7aac339c8e"
 metafile = true
 
 [[files]]
@@ -116,8 +126,23 @@ hash = "3336be9f51750f8d55dc216516c542440f7a207dcfafc0fae8d6f28c90040116"
 metafile = true
 
 [[files]]
+file = "mods/obsidianui.pw.toml"
+hash = "fba2939765b7b4fdeaf0f01589ab562c806859ba10924c2dc2a9cdb8b05852b2"
+metafile = true
+
+[[files]]
+file = "mods/oculus.pw.toml"
+hash = "f83b253ca6a8e6f2f847952704da0e1fb00e65cbb10b7c9cb15d1a1780618da0"
+metafile = true
+
+[[files]]
 file = "mods/official-divinerpg.pw.toml"
 hash = "3c4bb5d9f4fc3ef7d42ef03cf2ba37b349dc9e2e82bbad017ae053f99ab12a1b"
+metafile = true
+
+[[files]]
+file = "mods/ryoamiclights.pw.toml"
+hash = "72f5760a0409f53e27800e610c32fd88672fd23d0e1829aa7838e3378bfa2513"
 metafile = true
 
 [[files]]
