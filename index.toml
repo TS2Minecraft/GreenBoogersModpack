@@ -16,6 +16,11 @@ hash = "828d571a91296e2ee3be1ec509619ea01f6a61a03958461fbe543bd377daa194"
 metafile = true
 
 [[files]]
+file = "mods/badpackets.pw.toml"
+hash = "0083555f3f8a180241b81287a0998f028c7377751c86f2755e734b3b29f9fd3b"
+metafile = true
+
+[[files]]
 file = "mods/balm.pw.toml"
 hash = "92eef137f9ea740673053ec3604ddf3ed197f22fdf5e5da35c8364f88ad31650"
 metafile = true
@@ -73,6 +78,11 @@ metafile = true
 [[files]]
 file = "mods/geckolib.pw.toml"
 hash = "898fd2704dd260ae8f3dc20b4416439751f0a9e76367c4f0bbdac886b6987802"
+metafile = true
+
+[[files]]
+file = "mods/gravestone-mod.pw.toml"
+hash = "df07d5af0d287b944943b65e0b0990dc21fbbad6fee05b9d698a9f62b906ea9c"
 metafile = true
 
 [[files]]
@@ -196,6 +206,16 @@ hash = "be8f847d1e316c8c2e5122ba19ff09bf06a6e284671b6e454162741fd7abb7da"
 metafile = true
 
 [[files]]
+file = "mods/sophisticated-backpacks.pw.toml"
+hash = "9754cb4676a51356348d73a220a66d8372740b3cad432dd4b7aeea77a14f18c9"
+metafile = true
+
+[[files]]
+file = "mods/sophisticated-core.pw.toml"
+hash = "5dba8a5e0b7c09e9bfdb04c028ea4b77604442679714fc644a0fc9bdf8b4d137"
+metafile = true
+
+[[files]]
 file = "mods/sound.pw.toml"
 hash = "4915a6f26ccf7628835f97a2fa5f4b512a01eae6adf3fa4afca1046053ebceac"
 metafile = true
@@ -213,6 +233,11 @@ metafile = true
 [[files]]
 file = "mods/what-are-they-up-to.pw.toml"
 hash = "c557d1b26559ef987c229187d2f2705616e78179ce04fa1c96cc3d76a1cdf1b5"
+metafile = true
+
+[[files]]
+file = "mods/wthit.pw.toml"
+hash = "75f919474c56d48d70e8371067ee9bfaa47d2c06876937099108692e943cd404"
 metafile = true
 
 [[files]]

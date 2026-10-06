@@ -1,0 +1,19 @@
+name = "WTHIT"
+filename = "wthit-1.20.1-forge-8.21.1.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/6AQIaxuO/versions/hCPaSf8E/wthit-1.20.1-forge-8.21.1.jar"
+hash-format = "sha512"
+hash = "6991ef74b51f1c824d3a9f709a0508c22ac70dbd1f42855d7a2f653035159a3b66cc52792965cae72d3cf270d36f63f07e95089995d5e55c1e4b351a6445243a"
+
+[update]
+[update.modrinth]
+mod-id = "6AQIaxuO"
+version = "hCPaSf8E"
+
+
+[option]
+optional = true
+default = false
+description = "Данный мод является форком довольно популярной модификации HWYLA для новых версий игры. При наведении игроком курсора на блок/моба, мод покажет всплывающую подсказку, на которой можно будет узнать его название, мод, к которому он принадлежит и его характеристики."
