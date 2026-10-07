@@ -181,16 +181,6 @@ hash = "3c4bb5d9f4fc3ef7d42ef03cf2ba37b349dc9e2e82bbad017ae053f99ab12a1b"
 metafile = true
 
 [[files]]
-file = "mods/oh-the-biomes-weve-gone.pw.toml"
-hash = "eb6f1e82f189166b61fb27dbc8c62dcb90b1786b0c895488b3aaa8ecef32c041"
-metafile = true
-
-[[files]]
-file = "mods/oh-the-trees-youll-grow.pw.toml"
-hash = "e190a295557b4e3ef4ce887045e179ae1ef6240becdc254562fae8fad5dd15ac"
-metafile = true
-
-[[files]]
 file = "mods/passive-skill-tree.pw.toml"
 hash = "2ce53a704e67995bb5e9fbd42e59004e47ffc6487e2867131500dafd355b6b3e"
 metafile = true
@@ -223,6 +213,11 @@ metafile = true
 [[files]]
 file = "mods/sound.pw.toml"
 hash = "4915a6f26ccf7628835f97a2fa5f4b512a01eae6adf3fa4afca1046053ebceac"
+metafile = true
+
+[[files]]
+file = "mods/swing-through-grass.pw.toml"
+hash = "dba7b4050a746b8a8663e6f1038ab128bcdf2c9792721182f7d3496c90fbe540"
 metafile = true
 
 [[files]]
