@@ -136,6 +136,11 @@ hash = "5a98133891a72e041e37bc235e86d495e488387f1628fc1377e6b5169dfbb8bd"
 metafile = true
 
 [[files]]
+file = "mods/lootr.pw.toml"
+hash = "66bcfe786e6bbdee6f7ea0805ec3d2561b41285a5c77f1e465e80f4c2fd9200c"
+metafile = true
+
+[[files]]
 file = "mods/max-health-fix.pw.toml"
 hash = "a93f0e9edd075e9f7636bc4ef206318698fe4481377fdf8786789877070c4922"
 metafile = true
