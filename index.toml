@@ -16,6 +16,11 @@ hash = "828d571a91296e2ee3be1ec509619ea01f6a61a03958461fbe543bd377daa194"
 metafile = true
 
 [[files]]
+file = "mods/autocrafter.pw.toml"
+hash = "293656c828320bbec7a671757b3c42cb497fa892678a3439474f322aeeff8382"
+metafile = true
+
+[[files]]
 file = "mods/badpackets.pw.toml"
 hash = "0083555f3f8a180241b81287a0998f028c7377751c86f2755e734b3b29f9fd3b"
 metafile = true
@@ -98,6 +103,11 @@ metafile = true
 [[files]]
 file = "mods/inventory-profiles-next.pw.toml"
 hash = "a8673932fe3f5904e3d1deb99811a1ae1c4b2d8129346d1fe83c7807771c9966"
+metafile = true
+
+[[files]]
+file = "mods/iron-chests.pw.toml"
+hash = "583428d127b24cd72904f4f10a4dc2693286dc92da2fcc922c60fb05d3c7b9dc"
 metafile = true
 
 [[files]]
