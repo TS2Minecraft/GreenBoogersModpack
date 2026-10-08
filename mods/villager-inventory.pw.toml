@@ -1,0 +1,13 @@
+name = "Villager Inventory"
+filename = "villager_inventory-1.0.3-forge-1.20.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/BAdbcf4B/versions/z7ghIQVG/villager_inventory-1.0.3-forge-1.20.1.jar"
+hash-format = "sha512"
+hash = "f973562041892b3a65c28a2feb212dcb067a6874b94c322e9f8fca403546a60dba10b650b8fc776dc40bdbf9b3664d3e134642bfc0d481c94d67fefecc2926e4"
+
+[update]
+[update.modrinth]
+mod-id = "BAdbcf4B"
+version = "z7ghIQVG"
