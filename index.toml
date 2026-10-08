@@ -6,6 +6,11 @@ hash = "f9a60f1fa7696847424dcfbdc9c9f6f113eb16d31664e8327c6919e8d929e719"
 metafile = true
 
 [[files]]
+file = "mods/additional-redstone.pw.toml"
+hash = "51945d4a38a8e737ceaaccc1b8009d313640b60c6b70167b815dff74f6192102"
+metafile = true
+
+[[files]]
 file = "mods/appleskin.pw.toml"
 hash = "793693a85f3c87d4e899ee0c58deabc53690bf5a70f17343f28fd5063ce8a1e1"
 metafile = true
