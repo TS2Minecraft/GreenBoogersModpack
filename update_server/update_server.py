@@ -249,6 +249,7 @@ def main():
     finally:
         sftp.close()
         transport.close()
+        input("Press Enter...")
 
     print("\n[✓] Готово. Перезапустите сервер через панель Gamely.pro.")
 

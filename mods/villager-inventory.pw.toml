@@ -1,6 +1,6 @@
 name = "Villager Inventory"
 filename = "villager_inventory-1.0.3-forge-1.20.1.jar"
-side = "both"
+side = "client"
 
 [download]
 url = "https://cdn.modrinth.com/data/BAdbcf4B/versions/z7ghIQVG/villager_inventory-1.0.3-forge-1.20.1.jar"
