@@ -257,7 +257,7 @@ metafile = true
 
 [[files]]
 file = "mods/villager-inventory.pw.toml"
-hash = "79bee9b2e1d9a6903ee50275f49d5fe83c938e2b75419005f3d6383f94ca2d53"
+hash = "ce5e1c1958c4727bb95d3f58a796a838947836c0cc46056021bbdb4f638edc07"
 metafile = true
 
 [[files]]
