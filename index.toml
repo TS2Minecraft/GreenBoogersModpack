@@ -51,6 +51,11 @@ hash = "5c254562402cb9ce597cf1149e9bf1ed0f1d76050da752795f1c34c4351ad020"
 metafile = true
 
 [[files]]
+file = "mods/bookshelf.pw.toml"
+hash = "5a326819dce4482883fdf2dca451d18673aaaa9bb7e2bf35b08d5da63765cbd1"
+metafile = true
+
+[[files]]
 file = "mods/chat-heads.pw.toml"
 hash = "7eac00def4395b62dc85d04a9f52e022736404fd44c1cd11b052fdab127ec7cb"
 metafile = true
@@ -88,6 +93,11 @@ metafile = true
 [[files]]
 file = "mods/embeddium.pw.toml"
 hash = "5ec0c37f3f4ad07a40c10376668bca80334ddb7ad2bab06eb4de8f7aac339c8e"
+metafile = true
+
+[[files]]
+file = "mods/enchantment-descriptions.pw.toml"
+hash = "56c544cdc2b83db53cf6f582de307283896cbf2fef148abcd06a22732c91273c"
 metafile = true
 
 [[files]]
