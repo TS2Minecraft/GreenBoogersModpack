@@ -256,11 +256,6 @@ hash = "fde3d3b1607636100e382dce1bba80ab4608ebfa1ef888a37b86bc8c7dcbafe5"
 metafile = true
 
 [[files]]
-file = "mods/villager-inventory.pw.toml"
-hash = "ce5e1c1958c4727bb95d3f58a796a838947836c0cc46056021bbdb4f638edc07"
-metafile = true
-
-[[files]]
 file = "mods/waystones.pw.toml"
 hash = "1dc6ca31c7b6912c494caa2a4f5f9f7250af50fbeb9ce9141ae9b741f9861987"
 metafile = true
