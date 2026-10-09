@@ -211,6 +211,11 @@ hash = "3c4bb5d9f4fc3ef7d42ef03cf2ba37b349dc9e2e82bbad017ae053f99ab12a1b"
 metafile = true
 
 [[files]]
+file = "mods/our-villager-discounts.pw.toml"
+hash = "08848dc3d139c95d1db58a1f650ad1f917bb0c2167fc54da1cfca9fa595afe2f"
+metafile = true
+
+[[files]]
 file = "mods/passive-skill-tree.pw.toml"
 hash = "2ce53a704e67995bb5e9fbd42e59004e47ffc6487e2867131500dafd355b6b3e"
 metafile = true
