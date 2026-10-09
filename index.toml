@@ -61,6 +61,11 @@ hash = "513879881b2eec1c13fd746ccc7ad618965e6444db52963bfaf971d5c14e461b"
 metafile = true
 
 [[files]]
+file = "mods/combine-the-experience.pw.toml"
+hash = "24693419e805018890fabc63c2fab72f15109ea6bd7b16db6493561b3cbdc0e7"
+metafile = true
+
+[[files]]
 file = "mods/corgilib.pw.toml"
 hash = "74aeec9534ce02a06fdfe3c04d60f944eead173967dc88ac0592f96c7f8a0119"
 metafile = true

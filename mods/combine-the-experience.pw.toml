@@ -1,0 +1,13 @@
+name = "CTE - Combine The Experience"
+filename = "combine-the-experience-2.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/1lqHS7a2/versions/O7nC0GET/combine-the-experience-2.1.jar"
+hash-format = "sha512"
+hash = "5aa0ba8524b5cfa8d92f60bcc2416cd6d71e81e23228026568ed80f281e632ffff174e243a7fcdd5f7298e15712ea8269cb83b8fee56008ea3299755da7c9431"
+
+[update]
+[update.modrinth]
+mod-id = "1lqHS7a2"
+version = "O7nC0GET"
