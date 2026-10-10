@@ -1,0 +1,13 @@
+name = "Scarecrows' Territory"
+filename = "scarecrowsterritory-1.1.12-forge-mc1.20.4.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/1RaTTUPz/versions/h4BugDT8/scarecrowsterritory-1.1.12-forge-mc1.20.4.jar"
+hash-format = "sha512"
+hash = "8b70726c77dfea37d888bd4401b4937f75bed2cd1d070bb865303b7e9a36f57ec382b97913c26dc6f391c47d094906f4538eef789f3ba2e17b6aea66047a22df"
+
+[update]
+[update.modrinth]
+mod-id = "1RaTTUPz"
+version = "h4BugDT8"

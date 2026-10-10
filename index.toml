@@ -66,6 +66,11 @@ hash = "513879881b2eec1c13fd746ccc7ad618965e6444db52963bfaf971d5c14e461b"
 metafile = true
 
 [[files]]
+file = "mods/chunk-loaders.pw.toml"
+hash = "1171ef431ac21929d77df6f39e3f611da22a55f692395d8be0fc67f8ebf47c85"
+metafile = true
+
+[[files]]
 file = "mods/combine-the-experience.pw.toml"
 hash = "24693419e805018890fabc63c2fab72f15109ea6bd7b16db6493561b3cbdc0e7"
 metafile = true
@@ -236,6 +241,11 @@ hash = "72f5760a0409f53e27800e610c32fd88672fd23d0e1829aa7838e3378bfa2513"
 metafile = true
 
 [[files]]
+file = "mods/scarecrows-territory.pw.toml"
+hash = "ffc44b311c7d538572aca22bcaa6f455ce7b283c9c336b1bdbf45d1559b9be61"
+metafile = true
+
+[[files]]
 file = "mods/simple-backups.pw.toml"
 hash = "779cc89e86506759e73562cb77fb7136e5af6b7081f9d265588e3fa6b62e2052"
 metafile = true
@@ -258,6 +268,16 @@ metafile = true
 [[files]]
 file = "mods/sound.pw.toml"
 hash = "4915a6f26ccf7628835f97a2fa5f4b512a01eae6adf3fa4afca1046053ebceac"
+metafile = true
+
+[[files]]
+file = "mods/supermartijn642s-config-lib.pw.toml"
+hash = "1cf9cb3955b075664ea4fba13b47fe7160975740a28864983aebd53d39c1946e"
+metafile = true
+
+[[files]]
+file = "mods/supermartijn642s-core-lib.pw.toml"
+hash = "18a6ccc2934af07140ffaef232d4e37ce9dca7d094d27eeecf096ed4afa94620"
 metafile = true
 
 [[files]]
