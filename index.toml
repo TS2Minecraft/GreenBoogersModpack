@@ -86,6 +86,11 @@ hash = "b2c7739b56ef71f50a86658cfa67375796beafd391c4dbe26a5de8cd92b9b685"
 metafile = true
 
 [[files]]
+file = "mods/creativecore.pw.toml"
+hash = "83696650659994c6facf18e79b7b53877a0df0622d6beeeb7b27bbe75f6bc0b7"
+metafile = true
+
+[[files]]
 file = "mods/dungeon-crawl.pw.toml"
 hash = "3a4845166040ce2be2967b33371140b809b8d49889ba99f91da78e0228cd6f8e"
 metafile = true
@@ -233,6 +238,11 @@ metafile = true
 [[files]]
 file = "mods/passive-skill-tree.pw.toml"
 hash = "2ce53a704e67995bb5e9fbd42e59004e47ffc6487e2867131500dafd355b6b3e"
+metafile = true
+
+[[files]]
+file = "mods/playerrevive.pw.toml"
+hash = "0e4e32a1b974218110ad20c2545e57e748979dbc7b0e4981d474a6386b898c05"
 metafile = true
 
 [[files]]
