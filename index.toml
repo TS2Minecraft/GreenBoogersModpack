@@ -261,6 +261,10 @@ hash = "0e4e32a1b974218110ad20c2545e57e748979dbc7b0e4981d474a6386b898c05"
 metafile = true
 
 [[files]]
+file = "mods/pstinfinitefix-1.0.jar"
+hash = "52eb7f03a9e3a6f988d03f93b6dc87a2ffccdc7c07d393bbfada45cff8bf40cc"
+
+[[files]]
 file = "mods/ryoamiclights.pw.toml"
 hash = "72f5760a0409f53e27800e610c32fd88672fd23d0e1829aa7838e3378bfa2513"
 metafile = true
