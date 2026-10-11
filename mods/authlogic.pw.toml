@@ -1,0 +1,13 @@
+name = "authlogic"
+filename = "auth-logic-forge-0.0.2.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/3YH8L7pG/versions/u6WpjZBs/auth-logic-forge-0.0.2.jar"
+hash-format = "sha512"
+hash = "2a96d3785a1d6580ecaf940edd4df414397de826a396d578ce9ad04b96fdb576e6bedca5b62f88ce27bf2f29919ee66ce7d28cde2591d9d6befae69bd9902072"
+
+[update]
+[update.modrinth]
+mod-id = "3YH8L7pG"
+version = "u6WpjZBs"
