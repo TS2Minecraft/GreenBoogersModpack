@@ -56,6 +56,11 @@ hash = "07d0f68f9b3389a773664221117aff25ee4df45dea8868a182513696d41040ae"
 metafile = true
 
 [[files]]
+file = "mods/bl4cks-sit.pw.toml"
+hash = "a45bbe1f9c5947251c59bb51adfb7493e4023d5728dab1e6b8f116fdf8bf896f"
+metafile = true
+
+[[files]]
 file = "mods/bocchium.pw.toml"
 hash = "5c254562402cb9ce597cf1149e9bf1ed0f1d76050da752795f1c34c4351ad020"
 metafile = true
@@ -253,6 +258,11 @@ metafile = true
 [[files]]
 file = "mods/passive-skill-tree.pw.toml"
 hash = "2ce53a704e67995bb5e9fbd42e59004e47ffc6487e2867131500dafd355b6b3e"
+metafile = true
+
+[[files]]
+file = "mods/player-ladder.pw.toml"
+hash = "8d74c759351fb7a180ddd204ec1fb1d1a6f23cd157e6fd3ec00cefcb79022b91"
 metafile = true
 
 [[files]]
